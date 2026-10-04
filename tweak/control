@@ -1,0 +1,9 @@
+Package: com.shosh.uberfresh
+Name: UberFresh
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Per-Crane-Container Fingerprint-Spoof for Uber Eats (Location/Wifi/IDFA, Auto-Profil, Heartbeat)
+Maintainer: shosh
+Author: shosh
+Section: Tweaks
+Depends: mobilesubstrate
